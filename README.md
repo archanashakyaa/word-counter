@@ -1,5 +1,7 @@
 Text Analysis Tool
-This Python script provides a simple text analysis tool that can count the number of words, characters, sentences, and unique words in a given input. It can be useful for basic text processing tasks, such as analyzing the structure of sentences or estimating the complexity of written content.
+
+This Python script provides a simple text analysis tool that can count the number of words, characters, sentences, and unique words in a given input. 
+It can be useful for basic text processing tasks, such as analyzing the structure of sentences or estimating the complexity of written content.
 
 Features
 Word Count: Counts the total number of words in the input text.
